@@ -1,2 +1,2 @@
 # biostat776-intro-theresa-boyer
-Test if RStudio works
+Website that contains some information about me. 
