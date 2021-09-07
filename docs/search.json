@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Facts About Me",
+      "description": "I was a historical reenactor for a summer, and I played the role of Martha Washington. \n\nI'm an avid runner. I made my own half marathon event this past year: The Baltimore Blueberry Half Marathon. \n\nI have a cat named George, and I'm his third (and hopefully final) owner.  ",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-09-07T17:44:22-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Theresa Boyer",
+      "description": "I’m a second-year MSPH student in the Department of Population, Family and Reproductive Health. I’m also completing the final course for my MS in Biotechnology with a concentration in bioinformatics this term. \n\nI graduated from Brown University with a double major in art history and gender studies. I wrote my senior thesis about how 17th century Dutch dollhouses acted as a performative tool for women to express the realities of childbirth and domesticity during that time period. While I’ll never turn down going to a museum, I soon realized the limitations of considering all problems from a historical perspective. As a result, I worked as a clinical research coordinator in the Department of Maternal Fetal Medicine at both the University of Pennsylvania and Johns Hopkins University prior to starting my graduate work. I always enjoyed the opportunity to take courses a night, and my courses in cell and molecular biology opened up many new ways to investigate maternal and child health issues. \n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-09-07T18:04:32-04:00"
+    },
+    {
+      "path": "research.html",
+      "title": "Research Interests",
+      "description": "My research interests are broad and encompass many aspects of women’s health and maternal child health. Currently, I'm working on projects about:\n\nEnvironmental exposures and adverse pregnancy outcomes \n\nPredictors of blood transfusion after postpartum hemorrhage\n\nLipid metabolism and preeclampsia ",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-09-07T18:01:33-04:00"
+    }
+  ],
+  "collections": []
+}

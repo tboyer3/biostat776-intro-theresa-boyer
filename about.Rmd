@@ -1,0 +1,14 @@
+---
+title: "Facts About Me"
+description: | 
+  I was a historical reenactor for a summer, and I played the role of Martha Washington. 
+  
+  I'm an avid runner. I made my own half marathon event this past year: The Baltimore Blueberry Half Marathon. 
+  
+  I have a cat named George, and I'm his third (and hopefully final) owner.  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

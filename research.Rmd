@@ -1,0 +1,21 @@
+---
+title: "Research Interests"
+description: | 
+  My research interests are broad and encompass many aspects of women’s health and maternal child health. Currently, I'm working on projects about:
+  
+  Environmental exposures and adverse pregnancy outcomes 
+  
+  Predictors of blood transfusion after postpartum hemorrhage
+  
+  Lipid metabolism and preeclampsia 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+
+
+

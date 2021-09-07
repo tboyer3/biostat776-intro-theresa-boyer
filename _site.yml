@@ -1,0 +1,16 @@
+name: "biostat776-intro-theresa-boyer"
+title: "Theresa Boyer"
+description: |
+  Theresa Boyer
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      menu:
+        - text: "Research Interests"
+          href: research.html
+        - text: "Facts About Me"
+          href: about.html
+output: distill::distill_article
